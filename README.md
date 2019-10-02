@@ -1,6 +1,6 @@
 # Angular Crash Course (TodoList)
 
-This is the code for the crash course on YouTube
+This is the code for the ToDo List
 
 ## Quick Start
 
